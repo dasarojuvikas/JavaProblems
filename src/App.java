@@ -1,14 +1,13 @@
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
+
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.Set;
 
 public class App {
     public static void main(String[] args) throws Exception {
+        
         String str = "liril";
+
 //1,2 reverse a string, palindrome
         
         // String reversedStr = new StringBuilder(str).reverse().toString();
